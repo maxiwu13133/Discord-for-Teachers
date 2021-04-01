@@ -12,6 +12,14 @@ This guide is intended to show teachers how they can use discord as a teaching t
 
 ---
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 ## Discord Introduction
 Discord is a software that allows people to chat over voice channels. It has features such as chat channels and servers that are similar to Slack, and video streaming and voice calling features that Teachers who use Zoom are familiar with.
 
