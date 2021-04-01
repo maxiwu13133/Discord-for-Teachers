@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Task 3
-nav_order: 16
+nav_order: 3
 ---
 
 # Task 3
