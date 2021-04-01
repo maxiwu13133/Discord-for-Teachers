@@ -8,18 +8,23 @@ permalink: /
 
 # Introduction
 {: .fs-9 }
+This guide is intended to show teachers how they can use discord as a teaching tool. 
 
 ---
 
 ## Discord Introduction
+Discord is a software that allows people to chat over voice channels. It has features such as chat channels and servers that are similar to Slack, and video streaming and voice calling features that Teachers who use Zoom are familiar with.
 
 ---
 
 ## Who is this guide for?
 
+This guide is for teachers who have never used Discord before. After going through this guide, they will be able to teach their classes through Discord. 
 ---
 
 ## Software Versions
+
+This guide uses Discord (March 24, 2021) and Windows 10 64-bit system.
 
 ---
 
