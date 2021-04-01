@@ -7,7 +7,7 @@ permalink: /
 ---
 
 # Introduction
-{: .fs-9 }
+{: .no_toc .fs-9 }
 This guide is intended to show teachers how they can use discord as a teaching tool. 
 
 ---
