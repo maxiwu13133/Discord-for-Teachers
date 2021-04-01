@@ -20,6 +20,7 @@ Discord is a software that allows people to chat over voice channels. It has fea
 ## Who is this guide for?
 
 This guide is for teachers who have never used Discord before. After going through this guide, they will be able to teach their classes through Discord. 
+
 ---
 
 ## Software Versions
