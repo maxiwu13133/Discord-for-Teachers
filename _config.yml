@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: discord instruction manual
-description: A discord instruction manual for teachers
+title: Discord for Teachers
+description: A discord guide for teachers
 baseurl: "/Discord-for-Teachers" # the subpath of your site, e.g. /blog
 url: "https://maxiwu13133.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
