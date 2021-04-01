@@ -21,7 +21,7 @@ Task 1 introduction
 
 ### Small image
 
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)?raw=true
 
 ### Large image
 
