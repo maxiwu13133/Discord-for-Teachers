@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: discord instruction manual
 description: A discord instruction manual for teachers
-baseurl: "/discord-instruction-manual" # the subpath of your site, e.g. /blog
+baseurl: "/Discord-for-Teachers" # the subpath of your site, e.g. /blog
 url: "https://maxiwu13133.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
