@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Configuration
-nav_order: 2
+title: Task 4
+nav_order: 4
 ---
 
-# Configuration
+# Task 4
 {: .no_toc }
 
 
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's _config.yml file.
+Task 4 introduction
 {: .fs-6 .fw-300 }
 
 ## Table of contents
