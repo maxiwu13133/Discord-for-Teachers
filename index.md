@@ -37,7 +37,3 @@ This guide is for teachers who have never used Discord before. Teachers who have
 This guide uses Discord (Stable 81171, March 24, 2021) and Windows 10 64-bit system.
 
 ---
-
-## Conventions
-
----
