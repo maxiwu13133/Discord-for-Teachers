@@ -26,7 +26,7 @@ Before can use the MEE6 bot, you first need to add MEE6 to your server.
 
 **1.** Go to https://mee6.xyz/ and click on `Add to Discord`.
 
-https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_step_1.png
+image
 
 **2.** A new window will pop-up. Log in to the Discord account you wish to add MEE6 to.
 
@@ -99,5 +99,39 @@ You have now set restrictions for all messages being sent in your server.
 ---
 
 ## Timed messages
+
+You can also set timed messages such as deadline reminders, status annoucements, or even daily cat pictures.
+
+---
+
+**1.** Go to https://mee6.xyz/dashboard and click `Go to Dashboard` on the server that you wish to set timed messages in.
+
+image
+
+**2.** Click `Timers`.
+
+image
+
+**3.** Click `Add timer`.
+
+image
+
+**4.** Under CHANNEL, click `Please select a channel...` and select the text channel you would like to set up timed messages in.
+
+image
+
+**5.** Under INTERVAL, click `1 minute`. This is the default frequency. You can change the frequency here.
+
+image
+
+**6.** Under INTERVAL, click `X` on the day of the week you would not like to have the messages sent on. To add it back, click `+` and then the day of the week you want again.
+
+image
+
+**7.** Under MESSAGE, type the message you want to send and click `Create` when you are done.
+
+image
+
+You have now set timed messages for a text channel in your server.
 
 ---
