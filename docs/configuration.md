@@ -20,6 +20,44 @@ There are many bots you can add on Discord to improve your experience. One of th
 
 ## Adding MEE6 Bot
 
+Before can use the MEE6 bot, you first need to add MEE6 to your server.
+
+---
+
+1. Go to https://mee6.xyz/ and click on [Add to Discord].
+
+image
+
+2. A new window will pop-up. Log in to the Discord account you wish to add MEE6 to.
+
+image
+
+3. Verify that you are indeed human by clicking the checkbox labelled I am human.
+
+image
+
+4. Click [Authorize]. The popup will then close and you will be redirected back to the main browser.
+
+image
+
+5. Click [Set up MEE6] on the server you would like MEE6 to be set up in.
+
+image
+
+6. A new window will pop-up. Click [Continue].
+
+image
+
+7. Scroll down to the bottom and click [Authorize].
+
+image
+
+8. Click the checkbox labelled I am human.
+
+image
+
+You have now added MEE6 to your server.
+
 ---
 
 ## Censoring words
@@ -29,8 +67,3 @@ There are many bots you can add on Discord to improve your experience. One of th
 ## Timed messages
 
 ---
-
-## Reaction Roles
-
----
-
