@@ -40,8 +40,9 @@ This guide uses Discord (Stable 81171, March 24, 2021) and Windows 10 64-bit sys
 
 ## Conventions
 
-|Convention | Example |
-|:----------|:--------|
-|Buttons    | `Press` |
+|Convention      | Example    |
+|:---------------|:-----------|
+|Buttons         | `Press`    |
+|Key presses     | [Spacebar] |
 
 ---
