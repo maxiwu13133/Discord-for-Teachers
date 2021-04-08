@@ -144,43 +144,43 @@ You can allow students to self-assign established roles using the reaction tool.
 
 **1.** Go to https://mee6.xyz/dashboard and click `Go to Dashboard` on the server that you wish to set reaction roles in.
 
-
+![MEE6_reaction_1](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_time_1_updated.png?raw=true)
 
 **2.** Click `Reaction Roles`.
 
-
+![MEE6_reaction_2](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_reaction_2.png?raw=true)
 
 **3.** Click `Please select a channel...` under CHANNEL and click the channel you want to set reaction roles in.
 
-
+![MEE6_reaction_3](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_reaction_3.png?raw=true)
 
 **4.** Under MESSAGE, click `Embed` and make sure it is toggled OFF.
 
-
+![MEE6_reaction_4](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_reaction_4.png?raw=true)
 
 **5.** Under MESSAGE, type your desired message in the chatbox to let students know that they can self-assign roles.
 
-
+![MEE6_reaction_5](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_reaction_5.png?raw=true)
 
 **6.** Under REACTIONS AND ROLES, click `Add reaction`.
 
-
+![MEE6_reaction_6](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_reaction_6.png?raw=true)
 
 **7.** In the new pop-up, click on the Emoji that you want students to react with to self-assign roles.
 
-
+![MEE6_reaction_7](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_reaction_7.png?raw=true)
 
 **8.** Click `+` next to the Emoji you selected.
 
-
+![MEE6_reaction_8](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_reaction_8.png?raw=true)
 
 **9.** Click on the role(s) from your established list of roles that you want to associate the Emoji with.
 
-
+![MEE6_reaction_9](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_reaction_9.png?raw=true)
 
 **10.** Click `Save` to save all changes you made.
 
-
+![MEE6_reaction_10](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_reaction_10.png?raw=true)
 
 You have now set up reaction roles.
 
