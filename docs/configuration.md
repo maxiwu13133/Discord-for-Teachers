@@ -68,31 +68,31 @@ Using MEE6, you can add restrictions on all messages. The following steps will s
 
 **1.** Go to https://mee6.xyz/dashboard and click `Go to Dashboard` on the server you wish to moderate.
 
-image
+![MEE6_censor_1](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_censor_1.png?raw=true)
 
 **2.** Click `Moderator`.
 
-image
+![MEE6_censor_2](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_censor_2.png?raw=true)
 
 **3.** Scroll down to AUTO-MODERATOR.
 
-image
+![MEE6_censor_3](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_censor_3.png?raw=true)
 
 **4.** Under BAD WORDS, click `Disabled`. A drop-down menu will appear. Click `Delete Message`.
 
-image
+![MEE6_censor_4](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_censor_4.png?raw=true)
 
 **5.** Click `Settings +`.
 
-image
+![MEE6_censor_5](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_censor_5.png?raw=true)
 
 **6.** Under BAD WORDS LIST, type any offensive words you would like to have deleted. After every word, press [Enter]. Once your list is complete, click `OK`.
 
-image
+![MEE6_censor_6](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_censor_6.png?raw=true)
 
 **7.** Click `Save` at the bottom of the screen to save any changes you made.
 
-image
+![MEE6_censor_7](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_censor_7.png?raw=true)
 
 You have now set restrictions for all messages being sent in your server.
 
