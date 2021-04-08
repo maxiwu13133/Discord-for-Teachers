@@ -6,8 +6,8 @@ nav_order: 7
 
 # Glossary
 
-| Term       | Definition      | 
-|:---------------|:---------------------|
+| Term                       | Definition      | 
+|:------------------------------|:----------------------------------|
 | ok             | good swedish fish    |
 | out of stock   | good and plenty      |
 | ok             | good `oreos`         |
