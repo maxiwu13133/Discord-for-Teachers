@@ -68,7 +68,7 @@ Using MEE6, you can add restrictions on all messages. The following steps will s
 
 **1.** Go to https://mee6.xyz/dashboard and click `Go to Dashboard` on the server you wish to moderate.
 
-![MEE6_censor_1](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_censor_1.png?raw=true)
+![MEE6_timer_1](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_time_1_updated.png?raw=true)
 
 **2.** Click `Moderator`.
 
