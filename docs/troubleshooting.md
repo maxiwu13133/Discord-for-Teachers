@@ -3,6 +3,7 @@ layout: default
 title: Troubleshooting
 nav_order: 35
 ---
+## Troubleshooting
 
 | Symptoms       | Probable Cause       | Action  |
 |:---------------|:---------------------|:------  |
