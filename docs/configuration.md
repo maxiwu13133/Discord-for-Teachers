@@ -26,35 +26,35 @@ Before can use the MEE6 bot, you first need to add MEE6 to your server.
 
 **1.** Go to https://mee6.xyz/ and click on `Add to Discord`.
 
-![MEE6_step_1](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_censor_1.png?raw=true)
+![MEE6_step_1](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_step_1.png?raw=true)
 
 **2.** A new window will pop-up. Log in to the Discord account you wish to add MEE6 to.
 
-image
+![MEE6_step_2](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_step_2.png?raw=true)
 
 **3.** Verify that you are indeed human by clicking the checkbox labelled I am human.
 
-image
+![MEE6_step_3](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_step_3.png?raw=true)
 
 **4.** Click `Authorize`. The popup will then close and you will be redirected back to the main browser.
 
-image
+![MEE6_step_4](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_step_4.png?raw=true)
 
 **5.** Click `Set up MEE6` on the server you would like MEE6 to be set up in.
 
-image
+![MEE6_step_5https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_step_.png?raw=true)
 
 **6.** A new window will pop-up. Click `Continue`.
 
-image
+![MEE6_step_6](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_step_6.png?raw=true)
 
 **7.** Scroll down to the bottom and click `Authorize`.
 
-image
+![MEE6_step_7](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_step_7.png?raw=true)
 
 **8.** Click the checkbox labelled I am human.
 
-image
+![MEE6_step_8](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_step_8.png?raw=true)
 
 You have now added MEE6 to your server.
 
