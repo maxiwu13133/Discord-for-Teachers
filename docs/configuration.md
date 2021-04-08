@@ -28,27 +28,29 @@ Before can use the MEE6 bot, you first need to add MEE6 to your server.
 
 ![MEE6_step_1](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_step_1.png?raw=true)
 
-**2.** A new window will pop-up. Log in to the Discord account you wish to add MEE6 to.
+**2.** Log in to the Discord account you wish to add MEE6 to in the new window pop-up.
 
 ![MEE6_step_2](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_step_2.png?raw=true)
 
-**3.** Verify that you are indeed human by clicking the checkbox labelled I am human.
+**3.** Click the checkbox labelled I am human to verify that you are indeed human.
 
 ![MEE6_step_3](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_step_3.png?raw=true)
 
-**4.** Click `Authorize`. The popup will then close and you will be redirected back to the main browser.
+**4.** Click `Authorize`.
 
 ![MEE6_step_4](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_step_4.png?raw=true)
+
+The popup will then close and you will be redirected back to the main browser.
 
 **5.** Click `Set up MEE6` on the server you would like MEE6 to be set up in.
 
 ![MEE6_step_5](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_step_5.png?raw=true)
 
-**6.** A new window will pop-up. Click `Continue`.
+**6.** Click `Continue` in the new window pop-up.
 
 ![MEE6_step_6](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_step_6_updated.png?raw=true)
 
-**7.** Scroll down to the bottom and click `Authorize`.
+**7.** Click `Authorize` near the bottom of the page.
 
 ![MEE6_step_7](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_step_7_updated.png?raw=true)
 
@@ -78,7 +80,7 @@ Using MEE6, you can add restrictions on all messages. The following steps will s
 
 ![MEE6_censor_3](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_censor_3.png?raw=true)
 
-**4.** Under BAD WORDS, click `Disabled`. A drop-down menu will appear. Click `Delete Message`.
+**4.** Click `Disabled` under BAD WORDS and then click `Delete Message`.
 
 ![MEE6_censor_4](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_censor_4.png?raw=true)
 
@@ -86,7 +88,7 @@ Using MEE6, you can add restrictions on all messages. The following steps will s
 
 ![MEE6_censor_5](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_censor_5.png?raw=true)
 
-**6.** Under BAD WORDS LIST, type any offensive words you would like to have deleted. After every word, press [Enter]. Once your list is complete, click `OK`.
+**6.** Type any offensive words you would like to have deleted under BAD WORDS LIST. After every word, press [Enter]. Once your list is complete, click `OK`.
 
 ![MEE6_censor_6](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_censor_6_updated.png?raw=true)
 
@@ -116,19 +118,23 @@ You can also set timed messages such as deadline reminders, status annoucements,
 
 ![MEE6_timer_3](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_time_3_updated.png?raw=true)
 
-**4.** Under CHANNEL, click `Please select a channel...` and select the text channel you would like to set up timed messages in.
+**4.** Click `Please select a channel...` under CHANNEL and select the text channel you would like to set up timed messages in.
 
 ![MEE6_timer_4](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_time_4.png?raw=true)
 
-**5.** Under INTERVAL, click `1 minute`. This is the default frequency. You can change the frequency here.
+**5.** Click `1 minute` under INTERVAL and then click your desired frequency
 
 ![MEE6_timer_5](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_time_5.png?raw=true)
 
-**6.** Under INTERVAL, click `X` on the day of the week you would not like to have the messages sent on. To add it back, click `+` and then the day of the week you want again.
+`1 minute` is the default frequency. You can change the frequency here.
+
+**6.** Click `X` under INTERVAL on the day of the week you would not like to have the messages sent on. 
 
 ![MEE6_timer_6](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_time_6.png?raw=true)
 
-**7.** Under MESSAGE, type the message you want to send and click `Create` when you are done.
+To add it back, click `+` and then the day of the week you want again.
+
+**7.** Type the message you want to send and click `Create` when you are done.
 
 ![MEE6_timer_7](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_time_7.png?raw=true)
 
@@ -154,19 +160,19 @@ You can allow students to self-assign established roles using the reaction tool.
 
 ![MEE6_reaction_3](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_reaction_3.png?raw=true)
 
-**4.** Under MESSAGE, click `Embed` and make sure it is toggled OFF.
+**4.** Click `Embed` under MESSAGE and make sure it is toggled OFF.
 
 ![MEE6_reaction_4](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_reaction_4.png?raw=true)
 
-**5.** Under MESSAGE, type your desired message in the chatbox to let students know that they can self-assign roles.
+**5.** Type your desired message in the chatbox under MESSAGE to let students know that they can self-assign roles.
 
 ![MEE6_reaction_5](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_reaction_5.png?raw=true)
 
-**6.** Under REACTIONS AND ROLES, click `Add reaction`.
+**6.** Click `Add reaction` under REACTIONS AND ROLES.
 
 ![MEE6_reaction_6](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_reaction_6.png?raw=true)
 
-**7.** In the new pop-up, click on the Emoji that you want students to react with to self-assign roles.
+**7.** Click on the Emoji in the new pop-up that you want students to react with to self-assign roles.
 
 ![MEE6_reaction_7](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_reaction_7.png?raw=true)
 
