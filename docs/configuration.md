@@ -42,7 +42,7 @@ Before can use the MEE6 bot, you first need to add MEE6 to your server.
 
 **5.** Click `Set up MEE6` on the server you would like MEE6 to be set up in.
 
-![MEE6_step_5https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_step_.png?raw=true)
+![MEE6_step_5](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_step_.png?raw=true)
 
 **6.** A new window will pop-up. Click `Continue`.
 
