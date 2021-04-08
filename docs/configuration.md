@@ -135,3 +135,53 @@ You can also set timed messages such as deadline reminders, status annoucements,
 You have now set timed messages for a text channel in your server.
 
 ---
+
+## Reaction Roles
+
+You can allow students to self-assign established roles using the reaction tool.
+
+---
+
+**1.** Go to https://mee6.xyz/dashboard and click `Go to Dashboard` on the server that you wish to set reaction roles in.
+
+
+
+**2.** Click `Reaction Roles`.
+
+
+
+**3.** Click `Please select a channel...` under CHANNEL and click the channel you want to set reaction roles in.
+
+
+
+**4.** Under MESSAGE, click `Embed` and make sure it is toggled OFF.
+
+
+
+**5.** Under MESSAGE, type your desired message in the chatbox to let students know that they can self-assign roles.
+
+
+
+**6.** Under REACTIONS AND ROLES, click `Add reaction`.
+
+
+
+**7.** In the new pop-up, click on the Emoji that you want students to react with to self-assign roles.
+
+
+
+**8.** Click `+` next to the Emoji you selected.
+
+
+
+**9.** Click on the role(s) from your established list of roles that you want to associate the Emoji with.
+
+
+
+**10.** Click `Save` to save all changes you made.
+
+
+
+You have now set up reaction roles.
+
+---
