@@ -26,7 +26,7 @@ Before can use the MEE6 bot, you first need to add MEE6 to your server.
 
 **1.** Go to https://mee6.xyz/ and click on `Add to Discord`.
 
-image
+![MEE6_step_1](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_censor_1.png?raw=true "step 1")
 
 **2.** A new window will pop-up. Log in to the Discord account you wish to add MEE6 to.
 
