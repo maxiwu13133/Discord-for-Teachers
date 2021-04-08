@@ -46,11 +46,11 @@ Before can use the MEE6 bot, you first need to add MEE6 to your server.
 
 **6.** A new window will pop-up. Click `Continue`.
 
-![MEE6_step_6](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_step_6.png?raw=true)
+![MEE6_step_6](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_step_6_updated.png?raw=true)
 
 **7.** Scroll down to the bottom and click `Authorize`.
 
-![MEE6_step_7](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_step_7.png?raw=true)
+![MEE6_step_7](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_step_7_updated.png?raw=true)
 
 **8.** Click the checkbox labelled I am human.
 
@@ -88,7 +88,7 @@ Using MEE6, you can add restrictions on all messages. The following steps will s
 
 **6.** Under BAD WORDS LIST, type any offensive words you would like to have deleted. After every word, press [Enter]. Once your list is complete, click `OK`.
 
-![MEE6_censor_6](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_censor_6.png?raw=true)
+![MEE6_censor_6](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_censor_6_updated.png?raw=true)
 
 **7.** Click `Save` at the bottom of the screen to save any changes you made.
 
@@ -106,31 +106,31 @@ You can also set timed messages such as deadline reminders, status annoucements,
 
 **1.** Go to https://mee6.xyz/dashboard and click `Go to Dashboard` on the server that you wish to set timed messages in.
 
-image
+![MEE6_timer_1](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_time_1_updated.png?raw=true)
 
 **2.** Click `Timers`.
 
-image
+![MEE6_timer_2](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_time_2.png?raw=true)
 
 **3.** Click `Add timer`.
 
-image
+![MEE6_timer_3](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_time_3_updated.png?raw=true)
 
 **4.** Under CHANNEL, click `Please select a channel...` and select the text channel you would like to set up timed messages in.
 
-image
+![MEE6_timer_4](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_time_4.png?raw=true)
 
 **5.** Under INTERVAL, click `1 minute`. This is the default frequency. You can change the frequency here.
 
-image
+![MEE6_timer_5](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_time_5.png?raw=true)
 
 **6.** Under INTERVAL, click `X` on the day of the week you would not like to have the messages sent on. To add it back, click `+` and then the day of the week you want again.
 
-image
+![MEE6_timer_6](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_time_6.png?raw=true)
 
 **7.** Under MESSAGE, type the message you want to send and click `Create` when you are done.
 
-image
+![MEE6_timer_7](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_time_7.png?raw=true)
 
 You have now set timed messages for a text channel in your server.
 
