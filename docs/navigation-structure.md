@@ -34,6 +34,8 @@ All servers start off with a general text channel.
 
 **2.** Select the text channel type option and the name of the text channel.
 
+![DS 2](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/Managing%20Students/creatingTextChannelStep2.png?raw=true)
+
 **3.** Click `Create Channel`.
 
 You have successfully created a text channel. You can create as many as you need to manage and organize your class.
