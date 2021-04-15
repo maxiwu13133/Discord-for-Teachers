@@ -7,7 +7,7 @@ nav_order: 3
 # Setting Up a Discord Server and Assigning Roles
 {: .no_toc }
 
-Task 2 introduction
+In this section, we teach you how to create your own Discord server, how to invite others, and how you can manage your server using Roles features in Discord.
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -19,6 +19,7 @@ Task 2 introduction
 ---
 
 ## Discord Server
+
 
 **1.** Click on the `+` sign on the bar on the left side of Discord.
 
@@ -70,6 +71,13 @@ person who can type in this channel.
 ---
 
 ## Roles in Discord
+
+One of the amazing features of Discord is that it allows you to assign roles to members of the server in order to manage the server easier. For a classroom, you can use this 
+feature to divide your students into different groups for pojects, or you can simply divide them if there are more than one set or one grade students in your server.
+ {: .px-6 }
+
+---
+
 ### Creating Roles
 
 **1.** Click on your server name on the top left corner.
@@ -126,7 +134,11 @@ person who can type in this channel.
 
 ## Inviting to the Server
 
- Inviting people to your server is not a difficult actions.
+Inviting people to your server is not a difficult action. To invie your students to your server, you need to share a link to your server with them. Next few steps guide you
+to find the link to your server.
+  {: .px-6 }
+  
+---
  
 **1.** Click on your server name on the top left corner.
 
