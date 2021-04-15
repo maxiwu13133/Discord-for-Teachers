@@ -59,17 +59,50 @@ person who can type in this channel.
 
 ---
 
-## Assigning Roles
+## Roles in Discord
+### Creating Roles
 
-**1.** 
+**1.** Click on your server name on the top left corner.
+(PIC 19)
 
+**2.** Go to `server settings`.
+(PIC 20)
+
+**3.** Select `Roles` on the left side.
+(PIC 21)
+
+**4.** Click on the `+` sign on the top in front of ROLES to create a new role.
+(PIC 22)
+
+**5.** Assign a name and a color to the role. Then update the role setting below and give them the permissions you want them to have. When you are done, click `Save Changes`.
+(PIC 23)
+
+**6.** Go back to your server by clicking on the `X` button on the top right corner.
+
+### Assigning Roles
+
+**1.** Click on your server name on the top left corner.
+(PIC 19)
+
+**2.** Go to `server settings`.
+(PIC 20)
+
+**3.** Select `Members` on the left side.
+(PIC 24)
+
+**4.** Find the person you want to assign a role to, and click on the `+` button in front of their name.
+(PIC 25)
+
+**5.** Select the role u want to give them by clicking on role. (Note that you can assign multiple roles to one person if u need.)
+(PIC 26)
 ---
 
 ## Inviting to the Server
 
-**-** Inviting people to your server is not a difficult actions.
+ Inviting people to your server is not a difficult actions.
+ 
 **1.** Click on your server name on the top left corner.
-(PIC XX)
+(PIC 19)
 
 **2.** Click on `Invite People` option.
 (PIC XX1)
