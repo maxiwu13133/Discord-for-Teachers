@@ -76,7 +76,7 @@ Using the MEE6 bot, you can set up welcome messages for your welcome channel whe
 
 ![MEE6_welcome_3](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_welcome_2.png?raw=true)
 
-**3.** Toggle `On` for "Send a message when a user joins the server.
+**3.** Toggle `On` for "Send a message when a user joins the server".
 
 ![MEE6_welcome_3](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_welcome_3.png?raw=true)
 
