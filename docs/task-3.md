@@ -72,13 +72,9 @@ person who can type in this channel.
 
 **11.** Go back to your server by clicking on the `X` button on the top right corner.
 
-**-** You have succesfully set up your server and a welcome channel. 
-{: .px-4 }
-
-**-** Please refer to **Setting Up Welcome Messages** under **MEE6 Bot** to set up a more advanced and professional welcome page.
- {: .px-4 }
- 
- **-** You can also learn more about different types of channels and their use under **Managing Students**.
+You have succesfully set up your server and a welcome channel. 
+Please refer to **Setting Up Welcome Messages** under **MEE6 Bot** to set up a more advanced and professional welcome page.
+You can also learn more about different types of channels and their use under **Managing Students**.
  {: .px-4 }
 
 
@@ -115,6 +111,8 @@ feature to divide your students into different groups for pojects, or you can si
 ![CR 5](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/Task%201%20%26%202/Role%20settings%20(Pic23).png?raw=true)
 
 **6.** Go back to your server by clicking on the `X` button on the top right corner.
+
+---
 
 ### Assigning Roles
 
