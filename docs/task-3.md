@@ -20,6 +20,12 @@ In this section, we teach you how to create your own Discord server, how to invi
 
 ## Discord Server
 
+Servers in Discord are like a large group chat in which individuals can join and interact with others that share the same interests as them. For example, a server for 
+poeple who want to learn a programming language, or a server for people who go to the same school. In this section, we show you how you can create own server which can
+be used a classroom.
+{: .px-6 }
+
+---
 
 **1.** Click on the `+` sign on the bar on the left side of Discord.
 
@@ -66,7 +72,12 @@ person who can type in this channel.
 
 **11.** Go back to your server by clicking on the `X` button on the top right corner.
 
-**12.** Repeat steps **5 to 10** to create as many channels as u need. Remember to enable or disable permissions based on the use of the channel you are creating.
+**-** You have succesfully set up your server and a welcome channel. Please refer to **Setting Up Welcome Messages** under **MEE6 Bot** to set up a more advanced and professional welcome page.
+ {: .px-4 }
+ 
+ **-** You can also refer **Managing Students** to learn more about different type and use of channels in Discord.
+ {: .px-4 }
+
 
 ---
 
@@ -134,7 +145,7 @@ feature to divide your students into different groups for pojects, or you can si
 
 ## Inviting to the Server
 
-Inviting people to your server is not a difficult action. To invie your students to your server, you need to share a link to your server with them. Next few steps guide you
+Inviting people to your server is not a difficult action. To invite your students to your server, you need to share a link to your server with them. Next few steps guide you
 to find the link to your server.
   {: .px-6 }
   
