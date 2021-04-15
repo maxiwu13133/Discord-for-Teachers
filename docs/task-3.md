@@ -133,14 +133,17 @@ person who can type in this channel.
 ![IS 1](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/Task%201%20%26%202/Server%20name%20(Pic19).png?raw=true)
 
 
+
 **2.** Click on `Invite People` option.
 
 ![IS 2](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/Task%201%20%26%202/Invite%20button%20(Pic28).png?raw=true)
 
 
+
 **3.** Copy the link by clicking on the `Copy` button.
 
 ![IS 3](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/Task%201%20%26%202/Copy%20link%20button%20(Pic29).png?raw=true)
+
 
 
 **4.** Share the link with the people you want to invite to your channel.
