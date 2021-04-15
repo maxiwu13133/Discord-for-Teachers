@@ -93,8 +93,12 @@ person who can type in this channel.
 **4.** Find the person you want to assign a role to, and click on the `+` button in front of their name.
 (PIC 25)
 
-**5.** Select the role u want to give them by clicking on role. (Note that you can assign multiple roles to one person if u need.)
+**5.** Select the role u want to give them by clicking on the role. (Note that you can assign multiple roles to one person if u need.)
 (PIC 26)
+
+**-** Now you should be able to see each member's roles in front of their name. This is how this page will look like after you assign some roles to members:
+(PIC 27)
+
 ---
 
 ## Inviting to the Server
@@ -105,10 +109,10 @@ person who can type in this channel.
 (PIC 19)
 
 **2.** Click on `Invite People` option.
-(PIC XX1)
+(PIC 28)
 
 **3.** Copy the link by clicking on the `Copy` button.
-(PIC XX2)
+(PIC 29)
 
 **4.** Share the link with the people you want to invite to your channel.
 
