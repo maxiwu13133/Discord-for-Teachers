@@ -19,7 +19,11 @@ Task 1 introduction
 
 ---
 
-### Small image
+## Downloading Discord
+1. Go to https://discord.com/download.
+2. Click on `Download for Windows` to start downloading the installation file.
+(PIC)
+3. haha
 
 ![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 
