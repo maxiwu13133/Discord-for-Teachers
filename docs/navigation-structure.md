@@ -1,7 +1,7 @@
 ---
 layout: default
-title: MEE6 Bot
-nav_order: 4
+title: Managing Students
+nav_order: 5
 ---
 
 # Setting up MEE6 Bot
