@@ -26,11 +26,13 @@ Task 1 introduction
 ![Downloading Discord_step_2](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/Download%20button%20(Pic1).png?raw=true)
 
 **-** Note that this button will download Discord for windows 7 or higher (Win 7, 8, and 10.)
+{: .px-4 }
 
 **3.** Click on the `^` button on the right side of the file u downloaded, and `open` the file.
 (PIC2)
 
 **-** It will automatically install the Discord for you, and a new Discord window will open up.
+{: .px-4 }
 (PIC3)
 
 ## Creating a Discord Account
@@ -41,11 +43,13 @@ Task 1 introduction
 (PIC5)
 
 **-** Discord will now send a verification email to you that you need to check.
+{: .px-4 }
 
 **6.** Verify your account by logging into your email account and clicking on the `Verify Email` button.
 (PIC6)
 
 **-** Now you should be able to see your Discord Homepage, which should look like this:
+{: .px-4 }
 (PIC7)
 
 Congratulations! You have now installed Discord and have created your account.
