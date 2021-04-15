@@ -72,10 +72,13 @@ person who can type in this channel.
 
 **11.** Go back to your server by clicking on the `X` button on the top right corner.
 
-**-** You have succesfully set up your server and a welcome channel. Please refer to **Setting Up Welcome Messages** under **MEE6 Bot** to set up a more advanced and professional welcome page.
+**-** You have succesfully set up your server and a welcome channel. 
+{: .px-4 }
+
+**-** Please refer to **Setting Up Welcome Messages** under **MEE6 Bot** to set up a more advanced and professional welcome page.
  {: .px-4 }
  
- **-** You can also refer **Managing Students** to learn more about different type and use of channels in Discord.
+ **-** You can also learn more about different types of channels and their use under **Managing Students**.
  {: .px-4 }
 
 
