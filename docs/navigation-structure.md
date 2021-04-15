@@ -30,6 +30,8 @@ All servers start off with a general text channel.
 
 **1.** Click on the `+` sign beside `TEXT CHANNELS` on the left sidebar.
 
+![DS 1](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/Task%201%20%26%202/New%20channel%20button%20Fixed(Pic12).png?raw=true)
+
 **2.** Select the text channel type option and the name of the text channel.
 
 **3.** Click `Create Channel`.
