@@ -97,6 +97,7 @@ person who can type in this channel.
 (PIC 26)
 
 **-** Now you should be able to see each member's roles in front of their name. This is how this page will look like after you assign some roles to members:
+ {: .px-4 }
 (PIC 27)
 
 ---
