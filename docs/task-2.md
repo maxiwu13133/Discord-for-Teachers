@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Task 1
+title: Setting up Discord
 nav_order: 2
 ---
 
-# Task 1
+# Downloading, Installing, and Signing Up for Discord
 {: .no_toc }
 
 
