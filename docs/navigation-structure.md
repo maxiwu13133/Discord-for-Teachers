@@ -46,17 +46,21 @@ Here we will go over the text channel interface.
 
 **Messaging** 
 
-Click on the message bar at the bottom of the text channel to begin typing a message. There are also various GIFs and emoticons to express yourself.
+**1.** Click on the message bar at the bottom of the text channel to begin typing a message. There are also various GIFs and emoticons to express yourself.
 
 **Sharing files** 
 
-Click on the `+` at the message bar to attach a file or, drag the file to the text channel portion of the Discord interface or, copy and paste it directly onto the text channel. 
+**1.** Click on the `+` at the message bar to attach a file or, 
 
-The max file size you can upload to Discord using the basic plan is 8MB. The premium version, Discord nitro, allows you to upload up to 500MB.
+**2.** Drag the file to the text channel portion of the Discord interface or, 
+
+**3.** Copy and paste it directly onto the text channel. 
+
+**Note.** The max file size you can upload to Discord using the basic plan is 8MB. The premium version, Discord nitro, allows you to upload up to 500MB.
 
 **Right-clicking messages**
 
-Right-click a message to react, edit, pin, reply, speak, and delete. 
+**1.** Right-click a message to react, edit, pin, reply, speak, and delete. 
 
 Pinning a message allows a user to emphasize important information. Pinned messages can be accessed by clicking on the pin icon at the top bar. 
 
@@ -64,7 +68,9 @@ Speaking a message allows visually impaired individuals to listen to a message.
 
 **Searching**
 
-Click on the search bar at the top right of the Discord interface. You can use keywords and filters to search for a specific message, such as `from:` to search a message sent by a specific user.
+**1.** Click on the search bar at the top right of the Discord interface. 
+
+**Note.** You can use keywords and filters to search for a specific message, such as `from:` to search a message sent by a specific user.
 
 ---
 
@@ -96,52 +102,52 @@ Here we will go over the many functions of voice channels.
 
 **Joining and disconnecting**
 
-Click on the name of the voice channel on the left sidebar, under `VOICE CHANNELS`. To disconnect, click on the phone and x icon. 
+**1.** Click on the name of the voice channel on the left sidebar, under `VOICE CHANNELS`. 
+
+**2.** Disconnect by clicking on the phone and x icon. 
 
 **Muting and Deafening**
 
 Muting disables your mic input while deafening disables both your mic and audio inputs.
 
-To mute yourself, either click on the mic button at the bottom of the left bar, or right click your username under the voice channel name and click on `mute`.
+**1.** Mute yourself by either clicking on the mic button at the bottom of the left bar or, 
 
-To deafen yourself, either click on the headset button at the bottom of the left bar, or right click your username under the voice channel name and click on `deafen`.
+**2.** Right clicking your username under the voice channel name and click on `mute`.
 
-If you have the role permissions, you are able to mute and deafen other users by right-clicking on their username.
+**3.** Deafen yourself by either clicking on the headset button at the bottom of the left bar or
 
-Server mute and server deafen is a feature where only an admin is able to apply to another user. 
+**4.** Right-clicking your username under the voice channel name and click on `deafen`.
+
+**Note.** If you have the role permissions, you are able to mute and deafen other users by right-clicking on their username. Server mute and server deafen is a feature where only an admin is able to apply to another user. 
 
 **Screenshare and videoshare**
 
-To screenshare, click on `Screen` by the desktop icon on the bottom of the left bar.
+**1.** Begin screenshare by clicking on `Screen` by the desktop icon on the bottom of the left bar.
 
-To videoshare, click on `Video` by the camera icon on the bottom of the left bar.
+**2.** Begin videoshare by clicking on `Video` by the camera icon on the bottom of the left bar.
 
-Click on the voice channels' name to look at all the various screenshares and videoshares. 
+**3.** Click on the voice channels' name to look at all the various screenshares and videoshares. 
 
-You can view a screenshare by either clicking `Watch Stream` or hovering over the username of the screensharer and clicking on `Watch Stream`.
+**4.** Click `Watch Stream` or hover over the username of the screensharer and clicking on `Watch Stream` to view a screenshare.
 
-You can focus on a specific screen by clicking on it, or enlarging it by clicking on the fullscreen icon on the bottom right. 
+**5.** Focus on a specific screen by clicking on it, or enlarging it by clicking on the fullscreen icon on the bottom right. 
 
-There is also the pop-out icon and the volume icon on the bottom right.
-
-There is a limit of 50 people that can videoshare in one voice channel. 
-
-There is no limit to how many people can screenshare in one voice channel.
+**Note.** There is also the pop-out icon and the volume icon on the bottom right. There is a limit of 50 people that can videoshare in one voice channel. There is no limit to how many people can screenshare in one voice channel.
 
 **Streaming**
 
 Streaming and screenshare are essentially the same feature, the difference is that streaming allows you to screenshare applications.
 
-Click the desktop icon on the bottom of the left bar, beside the name of your application. 
+**1.** Click the desktop icon on the bottom of the left bar, beside the name of your application. 
 
-You can adjust the framerate and resolution of your stream. 
+**2.** Adjust the framerate and resolution of your stream to desired levels. 
 
-Click `Go Live` to begin streaming.
+**3.** Click `Go Live` to begin streaming.
 
-Click on the voice channels' name to look at all the various streams. 
+**4.** Click on the voice channels' name to look at all the various streams. 
 
-You can view a screenshare by either clicking `Watch Stream` or hovering over the username of the screensharer and clicking on `Watch Stream`.
+**5.** Clicking `Watch Stream` or hover over the username of the screensharer and clicking on `Watch Stream` to watch a stream.
 
-There is a limit of 50 people that can stream in one voice channel. 
+**Note.** There is a limit of 50 people that can stream in one voice channel. 
 
 ---
