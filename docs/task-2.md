@@ -22,7 +22,7 @@ Task 1 introduction
 ## Downloading Discord
 **1.** Go to [https://discord.com/download](https://discord.com/download).
 
-**2.** Click on `Download for Windows` and wait for it to discord's installation file.
+**2.** Click on `Download for Windows` and wait for it to download Discord's installation file.
 ![Downloading Discord_step_2](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/Download%20button%20(Pic1).png?raw=true)
 
 **-** Note that this button will download Discord for windows 7 or higher (Win 7, 8, and 10.)
