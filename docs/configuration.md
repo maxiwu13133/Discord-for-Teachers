@@ -24,7 +24,7 @@ Before can use the MEE6 bot, you first need to add MEE6 to your server.
 
 ---
 
-**1.** Go to https://mee6.xyz/ and click on `Add to Discord`.
+**1.** Go to https://mee6.xyz/ and click on `Add to Discord` on the server that you wish to set timed messages in.
 
 ![MEE6_step_1](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_step_1.png?raw=true)
 
@@ -59,6 +59,40 @@ The popup will then close and you will be redirected back to the main browser.
 ![MEE6_step_8](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_step_8.png?raw=true)
 
 You have now added MEE6 to your server.
+
+---
+
+## Setting up welcome messages
+
+Using the MEE6 bot, you can set up welcome messages for your welcome channel whenever a new user joins the server.
+
+---
+
+**1.** Go to https://mee6.xyz/ and click on `Add to Discord` on the server that you wish to set timed messages in.
+
+![MEE6_step_1](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_step_1.png?raw=true)
+
+**2.** Click `Welcome`.
+
+![MEE6_welcome_3](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_welcome_2.png?raw=true)
+
+**3.** Toggle `On` for "Send a message when a user joins the server.
+
+![MEE6_welcome_3](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_welcome_3.png?raw=true)
+
+**4.** Choose a text channel for the welcome messages to appear in under WELCOME MESSAGE CHANNEL.
+
+![MEE6_welcome_4](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_welcome_4.png?raw=true)
+
+**5.** Type your desired welcome message under WELCOME MESSAGE.
+
+![MEE6_welcome_5](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_welcome_5.png?raw=true)
+
+**6.** Click `Save` to save all changes you made.
+
+![MEE6_welcome_6](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/MEE6_steps/MEE6_welcome_6.png?raw=true)
+
+You have now set up welcome message for new users.
 
 ---
 
