@@ -7,8 +7,8 @@ nav_order: 35
 
 | Symptoms       | Probable Cause       | Action  |
 |:---------------|:---------------------|:------  |
-| ok             | good swedish fish    | nice    |
-| out of stock   | good and plenty      | nice    |
+| Invite link does not work             | Invite link expired    | Follow the steps again to generate a new link    |
+| MEE6 bot features do not work   | MEE6 is not in your server      | Follow "Adding MEE6 bot" to add MEE6 to your server    |
 | ok             | good `oreos`         | hmm     |
 | ok             | good `zoute` drop    | yumm    |
 
