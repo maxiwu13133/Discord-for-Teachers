@@ -82,7 +82,8 @@ Pinning a message allows a user to emphasize important information. Pinned messa
 
 Speaking a message allows visually impaired individuals to listen to a message. 
 
-#### Searching
+#### **Searching**
+
 
 **1.** Click on the search bar at the top right of the Discord interface. 
 
