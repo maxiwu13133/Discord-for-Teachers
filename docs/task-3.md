@@ -30,24 +30,18 @@ be used a classroom.
 
 ![DS 1](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/Task%201%20%26%202/Add%20server%20buttom%20(Pic8).png?raw=true)
 
-឵឵
-
 **2.** Choose the `Create My Own` option by clicking on it.
 
 ![DS 2](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/Task%201%20%26%202/Create%20my%20own%20button%20(Pic9).png?raw=true)
 
-឵឵
-
 **3.** Click on the `For a club or community` option.
 
 ![DS 3](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/Task%201%20%26%202/For%20club%20and%20community%20button%20(Pic10).png?raw=true)
-឵឵
 
 **4.** Type in your server name in the space porvided, then click on `uplaod +` button to add an icon for your server. (Note that you can
 add or change things later). Select `Create` to create your server whenever you are ready.
 
 ![DS 4](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/Task%201%20%26%202/Server%20name%20and%20icon%20(Pic11).png?raw=true)
-឵឵
 
 **5.** Click on the `+` sign in front of **TEXT CHANNELS** to create a new channel.
 
