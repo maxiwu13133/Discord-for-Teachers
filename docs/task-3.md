@@ -30,9 +30,13 @@ be used a classroom.
 
 ![DS 1](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/Task%201%20%26%202/Add%20server%20buttom%20(Pic8).png?raw=true)
 
+឵឵
+
 **2.** Choose the `Create My Own` option by clicking on it.
 
 ![DS 2](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/Task%201%20%26%202/Create%20my%20own%20button%20(Pic9).png?raw=true)
+
+឵឵
 
 **3.** Click on the `For a club or community` option.
 
