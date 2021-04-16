@@ -50,13 +50,13 @@ You have successfully created a text channel. You can create as many as you need
 
 Here we will go over the text channel interface.
 
-#### Messaging
+#### **Messaging**
 
 **1.** Click on the message bar at the bottom of the text channel to begin typing a message. There are also various GIFs and emoticons to express yourself.
 
 ![DS 4](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/Managing%20Students/textFunctionalities1.png?raw=true)
 
-#### Sharing files 
+#### **Sharing files** 
 
 **1.** Click on the `+` at the message bar to attach a file 
 
@@ -72,7 +72,7 @@ Here we will go over the text channel interface.
 
 **Note.** The max file size you can upload to Discord using the basic plan is 8MB. The premium version, Discord nitro, allows you to upload up to 500MB.
 
-#### Right-clicking messages
+#### **Right-clicking messages**
 
 **1.** Right-click a message to react, edit, pin, reply, speak, and delete. 
 
@@ -125,7 +125,7 @@ You have successfully created a voice channel. You can create as many as you nee
 
 Here we will go over the many functions of voice channels.
 
-#### Joining and disconnecting
+#### **Joining and disconnecting**
 
 **1.** Click on the name of the voice channel on the left sidebar, under `VOICE CHANNELS`. 
 
@@ -135,7 +135,7 @@ Here we will go over the many functions of voice channels.
 
 ![DS 14](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/Managing%20Students/voiceFunctionalities2.png?raw=true)
 
-#### Muting and Deafening
+#### **Muting and Deafening**
 
 Muting disables your mic input while deafening disables both your mic and audio inputs.
 
@@ -157,7 +157,7 @@ Muting disables your mic input while deafening disables both your mic and audio 
 
 **Note.** If you have the role permissions, you are able to mute and deafen other users by right-clicking on their username. Server mute and server deafen is a feature where only an admin is able to apply to another user. 
 
-#### Screenshare (streaming) and videoshare
+#### **Screenshare (streaming) and videoshare**
 
 **1.** Begin screenshare by clicking on `Screen` by the desktop icon on the bottom of the left bar.
 
@@ -182,5 +182,9 @@ Muting disables your mic input while deafening disables both your mic and audio 
 **Note.** There is also the pop-out icon and the volume icon on the bottom right. There is a limit of 50 people that can videoshare in one voice channel. There is no limit to how many people can screenshare in one voice channel.
 
 **Note.** Streaming and screenshare are essentially the same feature, the difference is that streaming allows you to screenshare applications.
+
+---
+
+You are now ready to begin your virtual classroom experience!
 
 ---
