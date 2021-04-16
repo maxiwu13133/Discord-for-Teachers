@@ -23,7 +23,6 @@ In this section, we teach you how to create your own Discord server, how to invi
 Servers in Discord are like a large group chat in which individuals can join and interact with others that share the same interests as them. For example, a server for 
 poeple who want to learn a programming language, or a server for people who go to the same school. In this section, we show you how you can create own server which can
 be used a classroom.
-{: .px-6 }
 
 ---
 
@@ -75,8 +74,6 @@ person who can type in this channel.
 You have succesfully set up your server and a welcome channel. 
 Please refer to **Setting Up Welcome Messages** under **MEE6 Bot** to set up a more advanced and professional welcome page.
 You can also learn more about different types of channels and their use under **Managing Students**.
- {: .px-4 }
-
 
 ---
 
@@ -84,7 +81,6 @@ You can also learn more about different types of channels and their use under **
 
 One of the amazing features of Discord is that it allows you to assign roles to members of the server in order to manage the server easier. For a classroom, you can use this 
 feature to divide your students into different groups for pojects, or you can simply divide them if there are more than one set or one grade students in your server.
- {: .px-6 }
 
 ---
 
@@ -136,11 +132,9 @@ feature to divide your students into different groups for pojects, or you can si
 
 ![AR 5](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/Task%201%20%26%202/Selecting%20role%20(Pic26).png?raw=true)
 
-**-** Now you should be able to see each member's roles in front of their name. This is how this page will look like after you assign some roles to members:
- {: .px-4 }
+Now you should be able to see each member's roles in front of their name. This is how this page will look like after you assign some roles to members:
 
 ![AR 5.1](https://github.com/maxiwu13133/Discord-for-Teachers/blob/gh-pages/assets/images/Task%201%20%26%202/All%20roles%20(Pic27).png?raw=true)
- {: .px-4 }
  
 ---
 
@@ -148,7 +142,6 @@ feature to divide your students into different groups for pojects, or you can si
 
 Inviting people to your server is not a difficult action. To invite your students to your server, you need to share a link to your server with them. Next few steps guide you
 to find the link to your server.
-  {: .px-6 }
   
 ---
  
